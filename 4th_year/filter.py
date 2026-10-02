@@ -1,4 +1,4 @@
-# incomplete... need a function for bandpass.  
+# incomplete... need a function for bandpass  
 
 import matplotlib.pyplot as plt
 import numpy as np
