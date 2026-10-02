@@ -1,4 +1,4 @@
-# incomplete... need appropriate gaussian
+# incomplete.......................................
 
 import matplotlib.pyplot as plt
 import numpy as np
